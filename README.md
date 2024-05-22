@@ -1,6 +1,6 @@
 # Blog Library
+## Introduction
+>Blog Library is a platform that provides the curated list of the personal articles/blogs on multiple topics like Engineering, Technology, Programming, Philosophy, etc.
+It allows you to explore, save and read them at one place. 
+You can visit the website and find out more on this [link.](https://bloglibrary.netlify.app)
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
